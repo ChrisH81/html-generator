@@ -1,3 +1,3 @@
 # html-generator
 
-![](https://github.com/ChrisH81/html-generator/raw/master/exampVideo.mp4)
+![VIDEO LINK](https://github.com/ChrisH81/html-generator/raw/master/exampVideo.mp4)
