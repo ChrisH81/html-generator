@@ -1,0 +1,16 @@
+{
+  "name": "html-generator",
+  "version": "1.0.0",
+  "description": "This project will help you use the command line to generate an html file with employee information",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  },
+  "dependencies": {
+    "inquirer": "^7.3.0"
+  }
+}
